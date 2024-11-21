@@ -1,5 +1,5 @@
 # **Currículum Vitae**
-![foto.png](download20241104182220.png)
+![foto.png](./img/download20241104182220.png)
 ## **Datos Personales**
 - **Nombre completo:** Maialen Hernández Bahamonde
 - **Fecha de nacimiento:** 10 de julio del 2006
@@ -44,10 +44,10 @@ Estos son algunos de mis repositorios en **Git-Hub** :
 ---
 ## **Lenguajes**
 ### Kotlin
-[![Texto alternativo](kotlin.png)](muestra.md)
+[![Texto alternativo](./img/kotlin.png)](muestra.md)
 
 ### HTML
-[![Texto alternativo](html.png)](muestra.md)
+[![Texto alternativo](./img/html.png)](muestra.md)
 
 ### CSS
-[![Texto alternativo](css.png)](muestra.md)
+[![Texto alternativo](./img/css.png)](muestra.md)
